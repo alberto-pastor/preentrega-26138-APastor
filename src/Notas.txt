@@ -1,0 +1,9 @@
+1-Creación dentro de la carpeta src un paquete llamado com.techlab.ecommerce
+2-Creación de carpetas dentro de src\com\techlab\ecommerce
+    -exception
+    -model
+    -service
+    -ui
+    -util
+3-Definición de la clase Model->Producto
+
